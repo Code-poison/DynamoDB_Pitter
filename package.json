@@ -1,0 +1,22 @@
+{
+  "name": "ddb_pitter",
+  "version": "1.0.0",
+  "description": "Init for I/O Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-poison/DynamoDB_Pitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-poison/DynamoDB_Pitter/issues"
+  },
+  "homepage": "https://github.com/Code-poison/DynamoDB_Pitter#readme",
+  "dependencies": {
+    "aws-sdk": "^2.395.0"
+  }
+}
